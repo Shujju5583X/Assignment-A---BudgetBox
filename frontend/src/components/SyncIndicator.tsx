@@ -27,7 +27,7 @@ export default function SyncIndicator() {
         if (isOffline) return;
         setLoading(true);
         try {
-            const response = await fetch('http://localhost:3002/budget/sync', {
+            const response = await fetch('https://assignment-a-budgetbox-production.up.railway.app/budget/sync', {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json',
