@@ -5,7 +5,7 @@ const fs = require('fs');
 const path = require('path');
 
 const app = express();
-const PORT = 3002;
+const PORT = process.env.PORT || 3002; // Updated for Railway
 const DB_FILE = path.join(__dirname, 'database.json');
 
 app.use(cors());
