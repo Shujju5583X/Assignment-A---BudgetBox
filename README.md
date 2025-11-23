@@ -134,21 +134,6 @@ cd backend
 
 ---
 
-## 📝 Assignment Submission
-
-**Form:** [forms.gle/Bjmec4ajeJtc7697A](https://forms.gle/Bjmec4ajeJtc7697A)
-
-**Submission Template:**
-```
-Name: [Your Name]
-GitHub Repo: [Your Repo URL]
-Live Demo Link: [Your Deployed URL]
-Tech Stack Used: Next.js 15, Express, PostgreSQL/JSON DB, Zustand, Tailwind CSS
-Notes: Offline-first architecture with real-time sync and AI insights
-```
-
----
-
 ## 🎨 Design Highlights
 
 - **Glassmorphism Cards** - Subtle backdrop-blur with border transparency
