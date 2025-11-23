@@ -165,4 +165,4 @@ MIT License - Built for assignment submission
 
 ---
 
-**Made with 💜 by [Your Name]**
+**Made with 💜 by [SYED SHUJATULLAH]**
